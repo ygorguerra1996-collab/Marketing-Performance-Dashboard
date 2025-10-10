@@ -21,4 +21,5 @@ The dashboard compares performance across three platforms: TikTok, Facebook Ads,
 The `sql/transform_and_unify_model.sql` script includes:
 
 - Data cleaning and preparation
+- Data from CSV files was ingested into the database using DBeaver for efficiency.
 - Joining and harmonizing metrics across platforms, by UNION ALL, to ensure all columns are preserved.

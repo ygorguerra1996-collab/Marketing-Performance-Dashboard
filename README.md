@@ -16,6 +16,7 @@ The dashboard compares performance across three platforms: TikTok, Facebook Ads,
 - Funnel performance by day of the week
 - Platform-specific performance with dynamic tooltips
     The dynamic tooltips can be seen by hovering over the columns of each platform. The tooltip that will pop-up is regarding metrics that are specific to each platform.
+    The SIS used in Google ads tooltip was weighted by impressions, to give more weight to ads with higher number of impressions
 
 ## SQL Script
 The `sql/transform_and_unify_model.sql` script includes:

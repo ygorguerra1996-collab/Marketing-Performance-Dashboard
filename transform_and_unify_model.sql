@@ -43,7 +43,7 @@ CREATE TABLE google_ads_data (
 );
 
 
-Query for creating Facebook Table:
+-- Query for creating Facebook Table:
 
 CREATE TABLE facebook_data (
     date DATE,
@@ -61,6 +61,8 @@ CREATE TABLE facebook_data (
     frequency NUMERIC
 );
 
+
+-- NOTE: all inserts were made using Dbeaver, doing the csv ingestion through there was much more efficient
 
 
 

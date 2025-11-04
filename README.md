@@ -4,7 +4,7 @@
 This repository contains the SQL script and documentation used for data transformation and unified model creation for the Marketing Data Analyst technical assignment.
 
 ## Dashboard Link
-[Power BI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiOTU1MGNkNWQtNzJhMy00M2RhLTk5MDgtMTVjYTUyMjYyY2VjIiwidCI6IjkyYzZmMWNjLTQzYjUtNDA5MC1hN2EwLWQ1NzA0Nzg3ZjFhZSJ9)
+[Power BI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNjQzNWY1MzctYWUxYS00MmYxLTljMjMtNjk2NGQyZjIxY2NjIiwidCI6IjkyYzZmMWNjLTQzYjUtNDA5MC1hN2EwLWQ1NzA0Nzg3ZjFhZSJ9)
 
 
 ## Project Overview
